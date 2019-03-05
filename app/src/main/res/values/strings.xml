@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">LiBook</string>
+
+    <!-- 公用属性 -->
+    <string name="ok">确定</string>
+    <string name="cancel">取消</string>
+    <string name="more">更多</string>
+    <string name="add">添加</string>
+    <string name="scan">扫描</string>
+    <string name="logout">退出</string>
+    <string name="system">系统</string>
+    <string name="setting">设置</string>
+    <string name="del">删除</string>
+    <string name="exit">再按一次退出系统。</string>
+    <string name="loading">正在拼命加载...</string>
+    <string name="search">搜索</string>
+
+    <!-- 主页面 -->
+    <string name="main_title">文学阅读</string>
+    <string name="book_shelf">书架</string>
+    <string name="book_rank">排行</string>
+    <string name="book_sort">分类</string>
+    <string name="book_find">发现</string>
+
+
+    <!-- 本地页面 -->
+    <string name="local">本地文件</string>
+    <string name="local_all">全选</string>
+    <string name="local_all_cancel">取消全选</string>
+    <string name="local_count">选中：%1d/%2d</string>
+    <string name="local_empty">没有可以添加的设备！</string>
+
+    <!-- 阅读页面 -->
+    <string name="read_setting_directory">目录</string>
+    <string name="read_setting_night">夜间</string>
+    <string name="read_setting_day">日间</string>
+    <string name="read_setting_pagemode">翻页</string>
+    <string name="read_setting_pre">上一章</string>
+    <string name="read_setting_next">下一章</string>
+    <string name="setting_dark">暗</string>
+    <string name="setting_bright">亮</string>
+    <string name="setting_add">A+</string>
+    <string name="setting_subtract">A-</string>
+    <string name="setting_default">默认</string>
+    <string name="font_default">系统默认</string>
+    <string name="font_qihei">羿创旗黑</string>
+    <string name="font_xinshou">新宋体</string>
+    <string name="font_wawa">娃娃体</string>
+    <string name="font_fzxinghei">行黑</string>
+    <string name="font_fzkatong">卡通</string>
+    <string name="font_bysong">繁宋体</string>
+    <string name="page_mode_simulation">仿真</string>
+    <string name="page_mode_cover">覆盖</string>
+    <string name="page_mode_slide">滑动</string>
+    <string name="page_mode_none">无</string>
+
+    <!-- 分类页面 -->
+    <string name="male">男生</string>
+    <string name="female">女生</string>
+    <string name="picture">漫画</string>
+    <string name="press">出版</string>
+
+    <string name="all">全部</string>
+    <string name="hot">热门</string>
+    <string name="over">完结</string>
+    <string name="new_book">新书</string>
+
+    <!-- 书籍详情页面 -->
+    <string name="book_add">添加书架</string>
+    <string name="book_start_read">开始阅读</string>
+    <string name="book_download">全部缓存</string>
+    <string name="book_resource">书籍源:   %1s</string>
+    <string name="book_res">选择书籍来源</string>
+    <string name="add_success">添加成功</string>
+    <string name="resource_count">共有%1d个来源</string>
+
+    <!-- 书籍目录页面 -->
+    <string name="free">免费</string>
+    <string name="vip">VIP</string>
+    <string name="has_down">已下载</string>
+
+    <!-- 书籍下载页面 -->
+    <string name="down_load">下载</string>
+    <string name="downloading">正在下载...</string>
+    <string name="pause">暂停中...</string>
+    <string name="not_down">未下载</string>
+</resources>
