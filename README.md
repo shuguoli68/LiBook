@@ -6,11 +6,10 @@ Language：kotlin
 Question: There is a bug that needs to be fixed.
 And the source of the book is problematic, and there is no specific chapter content.
 
-![](https://github.com/shuguoli68/LiBook/blob/master/Screenshots/splash.jpg
+![Screenshots](https://github.com/shuguoli68/LiBook/blob/master/Screenshots/splash.jpg
 )
 
-![](https://github.com/shuguoli68/LiBook/blob/master/Screenshots/%E4%B9%A6%E6%9E%B6.png
-)
+<img src="https://github.com/shuguoli68/LiBook/blob/master/Screenshots/%E4%B9%A6%E6%9E%B6.png" width="300" alt="轮播js"/>
 
 <img src="https://github.com/shuguoli68/LiBook/blob/master/Screenshots/%E4%B9%A6%E7%B1%8D%E5%88%97%E8%A1%A8.png" width="300" alt="轮播js"/>
 
